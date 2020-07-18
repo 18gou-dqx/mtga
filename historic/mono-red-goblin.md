@@ -1,10 +1,6 @@
 # 赤単ゴブリン
 
-## image
-
-![](https://github.com/18gou-dqx/mtga/blob/images/historic/mono-red-goblin.png)
-
-## Deck List
+## List
 
 ```
 デッキ
@@ -30,3 +26,6 @@
 3 溶岩コイル (GRN) 108
 ```
 
+## Image
+
+![](https://github.com/18gou-dqx/mtga/blob/images/historic/mono-red-goblin.png)
